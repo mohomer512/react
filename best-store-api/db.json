@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "MSI AA",
+      "brand": "MSI",
+      "categoy": "computers",
+      "price": 899,
+      "description": "MSI pulse GL66",
+      "imageFilename": "1.jpg",
+      "createdAt": "2023-7-13T17:36:55.8800000"
+    },
+    {
+      "id": 13,
+      "name": "Mens Casual Premium Slim Fit T-Shirts ",
+      "price": 22.3,
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "categoy": "men clothing",
+      "imageFilename": "4.jpg",
+      "createdAt": "2023-7-13T17:36:55.8800000"
+    },
+    {
+      "id": 5,
+      "name": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "categoy": "jewelery",
+      "imageFilename": "7.jpg",
+      "createdAt": "2023-7-13T17:36:55.8800000"
+    },
+    {
+      "id": 7,
+      "name": "White Gold Plated Princess",
+      "price": 9.99,
+      "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+      "categoy": "jewelery",
+      "imageFilename": "9.jpg",
+      "createdAt": "2023-7-13T17:36:55.8800000"
+    },
+    {
+      "id": 8,
+      "name": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+      "price": 10.99,
+      "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+      "categoy": "jewelery",
+      "imageFilename": "10.jpg",
+      "createdAt": "2023-7-13T17:36:55.8800000"
+    },
+    {
+      "id": 11,
+      "name": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+      "price": 109,
+      "description": "3D NAND flash are applied .",
+      "categoy": "electronics",
+      "imageFilename": "13.jpg",
+      "createdAt": "2023-7-13T17:36:55.8800000"
+    }
+  ]
+}
